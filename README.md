@@ -1,6 +1,7 @@
 # PropStash
 PropStash trasforma props e zone target in stash modulari per FiveM.
 
+<img width="1672" height="941" alt="propstash" src="https://github.com/user-attachments/assets/b6e7ceb7-35ed-41e8-8aeb-f311b9b8a266" />
 
 
 # propstash
